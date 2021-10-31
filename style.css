@@ -1,0 +1,22 @@
+.jumbotron {
+    padding-top: 7rem;
+    background-color: #1d46ce4b;
+}
+
+#about {
+    background-color: #ffffff;
+}
+
+#project {
+    background-color: #1d46ce4b;
+}
+
+section{
+    padding-top: 5rem;
+}
+
+#slogan{
+    font-size:large;
+    text-shadow: 2px 2px 5px #06162be0;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
